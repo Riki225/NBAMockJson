@@ -336,5 +336,12 @@
             "MissedFreeThrows": 11,
             "TurnOvers": 64
         }
+    ],
+    "teams": [
+        {
+            "TeamID": 1,
+            "TeamName": "Boston Celtics",
+            "TeamWinPercentage": 0.25
+        }   
     ]
 }
