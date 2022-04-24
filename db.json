@@ -63,38 +63,6 @@
             "MissedFieldGoals": 28,
             "MissedFreeThrows": 23,
             "TurnOvers": 26
-          },
-          {
-            "PlayerID": 5,
-            "FirstName": "Test",
-            "LastName": "Dataman",
-            "Wins": 6,
-            "Losses": 18,
-            "PlayerWinPercentage": 0.25,
-            "Points": 1,
-            "Rebounds": 84,
-            "Assists": 9,
-            "Steals": 19,
-            "Blocks": 24,
-            "MissedFieldGoals": 32,
-            "MissedFreeThrows": 11,
-            "TurnOvers": 64
-          },
-          {
-            "PlayerID": 6,
-            "FirstName": "Test",
-            "LastName": "Lasty",
-            "Wins": 4,
-            "Losses": 8,
-            "PlayerWinPercentage": 0.333,
-            "Points": 1,
-            "Rebounds": 84,
-            "Assists": 9,
-            "Steals": 19,
-            "Blocks": 24,
-            "MissedFieldGoals": 32,
-            "MissedFreeThrows": 11,
-            "TurnOvers": 64
           }
     ],
     "teams": [
