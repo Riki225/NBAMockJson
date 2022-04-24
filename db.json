@@ -342,11 +342,6 @@
             "TeamID": 1,
             "TeamName": "Boston Celtics",
             "TeamWinPercentage": 0.25
-        },      
-        {
-            "TeamID": 2,
-            "TeamName": "Golden State Warriors",
-            "TeamWinPercentage": 0.7
         }
     ]
 }
