@@ -342,6 +342,11 @@
         "TeamID": 1,
         "TeamName": "Boston Celtics",
         "TeamWinPercentage": 0.25
+      },
+      {
+        "TeamID": 1,
+        "TeamName": "Miami Heat",
+        "TeamWinPercentage": 0.77
       }
     ]
 }
