@@ -47,22 +47,6 @@
             "MissedFieldGoals": 16,
             "MissedFreeThrows": 23,
             "TurnOvers": 55
-          },
-          {
-            "PlayerID": 4,
-            "FirstName": "Quatro",
-            "LastName": "Fourson",
-            "Wins": 20,
-            "Losses": 3,
-            "PlayerWinPercentage": 0.87,
-            "Points": 61,
-            "Rebounds": 13,
-            "Assists": 33,
-            "Steals": 23,
-            "Blocks": 14,
-            "MissedFieldGoals": 28,
-            "MissedFreeThrows": 23,
-            "TurnOvers": 26
           }
     ],
     "teams": [
@@ -75,24 +59,6 @@
         "TeamID": 2,
         "TeamName": "Golden State Warriors",
         "TeamWinPercentage": 0.7
-      },
-      {
-        "TeamID": 3,
-        "TeamName": "Miami Heat",
-        "TeamWinPercentage": 0.2
-      },
-      {
-        "TeamID": 4,
-        "TeamName": "Chicago Bulls",
-        "TeamWinPercentage": 0.91
-      },
-      {
-        "TeamID": 5,
-        "TeamName": "Toronto Raptors",
-        "TeamWinPercentage": 0.43
       }
-      
-      
-
     ]
 }
