@@ -287,54 +287,6 @@
         "MissedFieldGoals": 32,
         "MissedFreeThrows": 11,
         "TurnOvers": 64
-      },
-      {
-        "PlayerID": 19,
-        "FirstName": "FirstName19",
-        "LastName": "LastName19",
-        "Wins": 6,
-        "Losses": 18,
-        "PlayerWinPercentage": 0.25,
-        "Points": 1,
-        "Rebounds": 84,
-        "Assists": 9,
-        "Steals": 19,
-        "Blocks": 24,
-        "MissedFieldGoals": 32,
-        "MissedFreeThrows": 11,
-        "TurnOvers": 64
-      },
-      {
-        "PlayerID": 20,
-        "FirstName": "FirstName20",
-        "LastName": "LastName20",
-        "Wins": 6,
-        "Losses": 18,
-        "PlayerWinPercentage": 0.25,
-        "Points": 1,
-        "Rebounds": 84,
-        "Assists": 9,
-        "Steals": 19,
-        "Blocks": 24,
-        "MissedFieldGoals": 32,
-        "MissedFreeThrows": 11,
-        "TurnOvers": 64
-      },
-      {
-        "PlayerID": 21,
-        "FirstName": "FirstName21",
-        "LastName": "LastName21",
-        "Wins": 6,
-        "Losses": 18,
-        "PlayerWinPercentage": 0.25,
-        "Points": 1,
-        "Rebounds": 84,
-        "Assists": 9,
-        "Steals": 19,
-        "Blocks": 24,
-        "MissedFieldGoals": 32,
-        "MissedFreeThrows": 11,
-        "TurnOvers": 64
       }
     ],
     "teams": [
@@ -344,7 +296,7 @@
         "TeamWinPercentage": 0.25
       },
       {
-        "TeamID": 1,
+        "TeamID": 2,
         "TeamName": "Miami Heat",
         "TeamWinPercentage": 0.77
       }
