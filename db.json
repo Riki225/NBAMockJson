@@ -95,118 +95,6 @@
             "MissedFieldGoals": 32,
             "MissedFreeThrows": 11,
             "TurnOvers": 64
-          },
-          {
-            "PlayerID": 7,
-            "FirstName": "FirstName7",
-            "LastName": "LastName7",
-            "Wins": 6,
-            "Losses": 18,
-            "PlayerWinPercentage": 0.25,
-            "Points": 1,
-            "Rebounds": 84,
-            "Assists": 9,
-            "Steals": 19,
-            "Blocks": 24,
-            "MissedFieldGoals": 32,
-            "MissedFreeThrows": 11,
-            "TurnOvers": 64
-          },
-          {
-            "PlayerID": 8,
-            "FirstName": "FirstName8",
-            "LastName": "LastName8",
-            "Wins": 6,
-            "Losses": 18,
-            "PlayerWinPercentage": 0.25,
-            "Points": 1,
-            "Rebounds": 84,
-            "Assists": 9,
-            "Steals": 19,
-            "Blocks": 24,
-            "MissedFieldGoals": 32,
-            "MissedFreeThrows": 11,
-            "TurnOvers": 64
-          },
-          {
-            "PlayerID": 9,
-            "FirstName": "FirstName9",
-            "LastName": "LastName9",
-            "Wins": 6,
-            "Losses": 18,
-            "PlayerWinPercentage": 0.25,
-            "Points": 1,
-            "Rebounds": 84,
-            "Assists": 9,
-            "Steals": 19,
-            "Blocks": 24,
-            "MissedFieldGoals": 32,
-            "MissedFreeThrows": 11,
-            "TurnOvers": 64
-          },
-          {
-            "PlayerID": 10,
-            "FirstName": "FirstName10",
-            "LastName": "LastName10",
-            "Wins": 6,
-            "Losses": 18,
-            "PlayerWinPercentage": 0.25,
-            "Points": 1,
-            "Rebounds": 84,
-            "Assists": 9,
-            "Steals": 19,
-            "Blocks": 24,
-            "MissedFieldGoals": 32,
-            "MissedFreeThrows": 11,
-            "TurnOvers": 64
-          },
-          {
-            "PlayerID": 11,
-            "FirstName": "FirstName11",
-            "LastName": "LastName11",
-            "Wins": 6,
-            "Losses": 18,
-            "PlayerWinPercentage": 0.25,
-            "Points": 1,
-            "Rebounds": 84,
-            "Assists": 9,
-            "Steals": 19,
-            "Blocks": 24,
-            "MissedFieldGoals": 32,
-            "MissedFreeThrows": 11,
-            "TurnOvers": 64
-          },
-          {
-            "PlayerID": 12,
-            "FirstName": "FirstName12",
-            "LastName": "LastName12",
-            "Wins": 6,
-            "Losses": 18,
-            "PlayerWinPercentage": 0.25,
-            "Points": 1,
-            "Rebounds": 84,
-            "Assists": 9,
-            "Steals": 19,
-            "Blocks": 24,
-            "MissedFieldGoals": 32,
-            "MissedFreeThrows": 11,
-            "TurnOvers": 64
-          },
-          {
-            "PlayerID": 13,
-            "FirstName": "FirstName13",
-            "LastName": "LastName13",
-            "Wins": 6,
-            "Losses": 18,
-            "PlayerWinPercentage": 0.25,
-            "Points": 1,
-            "Rebounds": 84,
-            "Assists": 9,
-            "Steals": 19,
-            "Blocks": 24,
-            "MissedFieldGoals": 32,
-            "MissedFreeThrows": 11,
-            "TurnOvers": 64
           }
     ],
     "teams": [
@@ -238,8 +126,5 @@
       
       
 
-    ],
-    "profile": {
-      "name": "Riki225"
-    }
-  }
+    ]
+}
