@@ -336,42 +336,5 @@
             "MissedFreeThrows": 11,
             "TurnOvers": 64
         }
-    ],
-    "teams": [
-      {
-        "TeamID": 1,
-        "TeamName": "Los Angeles Lakers",
-        "TeamWinPercentage": 0.5
-      },
-      {
-        "TeamID": 2,
-        "TeamName": "Golden State Warriors",
-        "TeamWinPercentage": 0.7
-      },
-      {
-        "TeamID": 3,
-        "TeamName": "Boston Celtics",
-        "TeamWinPercentage": 0.1
-      },
-      {
-        "TeamID": 4,
-        "TeamName": "Atlanta Hawks",
-        "TeamWinPercentage": 0.35
-      },
-      {
-        "TeamID": 5,
-        "TeamName": "Brooklyn Nets",
-        "TeamWinPercentage": 0.31
-      },
-      {
-        "TeamID": 6,
-        "TeamName": "Miami Heat",
-        "TeamWinPercentage": 0.77
-      },
-      {
-        "TeamID": 7,
-        "TeamName": "Chicago Bulls",
-        "TeamWinPercentage": 0.91
-      }
     ]
 }
