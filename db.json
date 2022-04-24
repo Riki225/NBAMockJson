@@ -342,6 +342,11 @@
         "TeamID": 1,
         "TeamName": "Boston Celtics",
         "TeamWinPercentage": 0.25
+      },
+      {
+        "TeamID": 2,
+        "TeamName": "Chicago Bulls",
+        "TeamWinPercentage": 0.77
       }
     ]
 }
