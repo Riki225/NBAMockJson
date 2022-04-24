@@ -207,134 +207,6 @@
             "MissedFieldGoals": 32,
             "MissedFreeThrows": 11,
             "TurnOvers": 64
-          },
-          {
-            "PlayerID": 14,
-            "FirstName": "FirstName14",
-            "LastName": "LastName14",
-            "Wins": 6,
-            "Losses": 18,
-            "PlayerWinPercentage": 0.25,
-            "Points": 1,
-            "Rebounds": 84,
-            "Assists": 9,
-            "Steals": 19,
-            "Blocks": 24,
-            "MissedFieldGoals": 32,
-            "MissedFreeThrows": 11,
-            "TurnOvers": 64
-          },
-          {
-            "PlayerID": 15,
-            "FirstName": "FirstName15",
-            "LastName": "LastName15",
-            "Wins": 6,
-            "Losses": 18,
-            "PlayerWinPercentage": 0.25,
-            "Points": 1,
-            "Rebounds": 84,
-            "Assists": 9,
-            "Steals": 19,
-            "Blocks": 24,
-            "MissedFieldGoals": 32,
-            "MissedFreeThrows": 11,
-            "TurnOvers": 64
-          },
-          {
-            "PlayerID": 16,
-            "FirstName": "FirstName16",
-            "LastName": "LastName16",
-            "Wins": 6,
-            "Losses": 18,
-            "PlayerWinPercentage": 0.25,
-            "Points": 1,
-            "Rebounds": 84,
-            "Assists": 9,
-            "Steals": 19,
-            "Blocks": 24,
-            "MissedFieldGoals": 32,
-            "MissedFreeThrows": 11,
-            "TurnOvers": 64
-          },
-          {
-            "PlayerID": 17,
-            "FirstName": "FirstName17",
-            "LastName": "LastName17",
-            "Wins": 6,
-            "Losses": 18,
-            "PlayerWinPercentage": 0.25,
-            "Points": 1,
-            "Rebounds": 84,
-            "Assists": 9,
-            "Steals": 19,
-            "Blocks": 24,
-            "MissedFieldGoals": 32,
-            "MissedFreeThrows": 11,
-            "TurnOvers": 64
-          },
-          {
-            "PlayerID": 18,
-            "FirstName": "FirstName18",
-            "LastName": "LastName18",
-            "Wins": 6,
-            "Losses": 18,
-            "PlayerWinPercentage": 0.25,
-            "Points": 1,
-            "Rebounds": 84,
-            "Assists": 9,
-            "Steals": 19,
-            "Blocks": 24,
-            "MissedFieldGoals": 32,
-            "MissedFreeThrows": 11,
-            "TurnOvers": 64
-          },
-          {
-            "PlayerID": 19,
-            "FirstName": "FirstName19",
-            "LastName": "LastName19",
-            "Wins": 6,
-            "Losses": 18,
-            "PlayerWinPercentage": 0.25,
-            "Points": 1,
-            "Rebounds": 84,
-            "Assists": 9,
-            "Steals": 19,
-            "Blocks": 24,
-            "MissedFieldGoals": 32,
-            "MissedFreeThrows": 11,
-            "TurnOvers": 64
-          },
-          {
-            "PlayerID": 20,
-            "FirstName": "FirstName20",
-            "LastName": "LastName20",
-            "Wins": 6,
-            "Losses": 18,
-            "PlayerWinPercentage": 0.25,
-            "Points": 1,
-            "Rebounds": 84,
-            "Assists": 9,
-            "Steals": 19,
-            "Blocks": 24,
-            "MissedFieldGoals": 32,
-            "MissedFreeThrows": 11,
-            "TurnOvers": 64
-          },
-          {
-            "PlayerID": 21,
-            "FirstName": "FirstName21",
-            "LastName": "LastName21",
-            "Wins": 6,
-            "Losses": 18,
-            "PlayerWinPercentage": 0.25,
-            "Points": 1,
-            "Rebounds": 84,
-            "Assists": 9,
-            "Steals": 19,
-            "Blocks": 24,
-            "MissedFieldGoals": 32,
-            "MissedFreeThrows": 11,
-            "TurnOvers": 64
           }
     ],
     "teams": [
@@ -350,29 +222,20 @@
       },
       {
         "TeamID": 3,
-        "TeamName": "Boston Celtics",
-        "TeamWinPercentage": 0.1
+        "TeamName": "Miami Heat",
+        "TeamWinPercentage": 0.2
       },
       {
         "TeamID": 4,
-        "TeamName": "Atlanta Hawks",
-        "TeamWinPercentage": 0.35
+        "TeamName": "Chicago Bulls",
+        "TeamWinPercentage": 0.91
       },
       {
         "TeamID": 5,
-        "TeamName": "Brooklyn Nets",
-        "TeamWinPercentage": 0.31
-      },
-      {
-        "TeamID": 6,
-        "TeamName": "Miami Heat",
-        "TeamWinPercentage": 0.77
-      },
-      {
-        "TeamID": 7,
-        "TeamName": "Chicago Bulls",
-        "TeamWinPercentage": 0.91
+        "TeamName": "Toronto Raptors",
+        "TeamWinPercentage": 0.43
       }
+      
       
 
     ],
