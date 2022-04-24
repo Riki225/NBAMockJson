@@ -1,48 +1,48 @@
 {
     "players": [
-        {
-            "PlayerID": 1,
-            "FirstName": "Helloman",
-            "LastName": "Testman",
-            "Wins": 15,
-            "Losses": 5,
-            "PlayerWinPercentage": 0.750,
-            "Points": 60,
-            "Rebounds": 64,
-            "Assists": 36,
-            "Steals": 14,
-            "Blocks": 15,
-            "MissedFieldGoals": 45,
-            "MissedFreeThrows": 32,
-            "TurnOvers": 35
-        },
-        {
-            "PlayerID": 2,
-            "FirstName": "Also",
-            "LastName": "Testy",
-            "Wins": 10,
-            "Losses": 5,
-            "PlayerWinPercentage": 0.667,
-            "Points": 60,
-            "Rebounds": 64,
-            "Assists": 36,
-            "Steals": 14,
-            "Blocks": 15,
-            "MissedFieldGoals": 45,
-            "MissedFreeThrows": 32,
-            "TurnOvers": 35
-        }
+      {
+        "PlayerID": 1,
+        "FirstName": "Helloman",
+        "LastName": "Testman",
+        "Wins": 15,
+        "Losses": 5,
+        "PlayerWinPercentage": 0.750,
+        "Points": 60,
+        "Rebounds": 64,
+        "Assists": 36,
+        "Steals": 14,
+        "Blocks": 15,
+        "MissedFieldGoals": 45,
+        "MissedFreeThrows": 32,
+        "TurnOvers": 35
+      },
+      {
+        "PlayerID": 2,
+        "FirstName": "Also",
+        "LastName": "Testy",
+        "Wins": 10,
+        "Losses": 5,
+        "PlayerWinPercentage": 0.667,
+        "Points": 60,
+        "Rebounds": 64,
+        "Assists": 36,
+        "Steals": 14,
+        "Blocks": 15,
+        "MissedFieldGoals": 45,
+        "MissedFreeThrows": 32,
+        "TurnOvers": 35
+      }
     ],
     "teams": [
       {
         "TeamID": 1,
-        "TeamName": "Los Angeles Lakers",
+        "TeamName": "LA",
         "TeamWinPercentage": 0.5
       },
       {
         "TeamID": 2,
-        "TeamName": "Golden State Warriors",
+        "TeamName": "GSW",
         "TeamWinPercentage": 0.7
-    }
+      }
     ]
-}
+  }
